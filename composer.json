@@ -1,0 +1,18 @@
+{
+    "name": "wupz/aliyun-cloudapi-sdk",
+    "authors": [
+        {
+            "name": "吴培泽",
+            "email": "dev@wupeize.com"
+        }
+    ],
+    "autoload":{
+    	"psr-4": {
+            "cloudapi\\": "src/cloudapi"
+        }
+    },
+    "require": {},
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
